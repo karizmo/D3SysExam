@@ -1,0 +1,5 @@
+./htdocs/commands/bottom.txt
+./htdocs/commands/desktopls.txt
+./htdocs/commands/find.txt
+./htdocs/commands/img.txt
+./htdocs/commands/top.txt
