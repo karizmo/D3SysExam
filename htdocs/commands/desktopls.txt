@@ -1,8 +1,0 @@
-Class01_Navigation.pdf
-Class02_ShellCommands.pdf
-Class03_ShellCommands_Permissions.pdf
-Class06_Git-Commands.pdf
-ExamGithub
-ExamGithub.zip
-Patrick_Moreno_FinalExam.txt
-desktopls.txt
